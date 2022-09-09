@@ -1,0 +1,18 @@
+manual :
+only need this activeX file on target system : wgssSTU.dll
+
+regsvr32.exe wgssSTU.dll
+
+i cant find it(wgssSTU.dll) , 
+maybe these activeX should be copyed to user system:
+   FlSigCOM.dll,FlSigCOM.dll,FlWizCOM.dll,wgssLicenceClient.dll
+
+Auto:
+  Install  Wacom-Signature-SDK-x86-4.7.1.msi  
+  Dir      C:\apps_delphi\compo\sdk-for-signature-windows\driver
+
+sees:
+http://developer-docs.wacom.com/stu/docs/deployment
+
+files:
+C:\Program Files (x86)\Common Files\WacomGSS

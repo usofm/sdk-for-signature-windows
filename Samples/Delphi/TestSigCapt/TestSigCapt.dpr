@@ -2,7 +2,9 @@ program TestSigCapt;
 
 uses
   Vcl.Forms,
-  TestSigCaptForm in 'TestSigCaptForm.pas' {Form1};
+  TestSigCaptForm in 'TestSigCaptForm.pas' {Form1},
+  Device.Licence in 'Device.Licence.pas',
+  Device.Command in 'Device.Command.pas';
 
 {$R *.res}
 

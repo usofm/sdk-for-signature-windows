@@ -2,8 +2,13 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2012/08/23 12:06:22.000.361,=C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2012/08/23 12:06:46.000.643,C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.pas=X:\delphi\TestSigCapt\TestSigCaptForm.pas</Transaction>
-    <Transaction>2012/08/23 12:06:46.000.643,C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.dfm=X:\delphi\TestSigCapt\TestSigCaptForm.dfm</Transaction>
-    <Transaction>2012/08/23 12:06:50.000.418,C:\Users\jgarrido\Documents\RAD Studio\Projects\Project1.dproj=X:\delphi\TestSigCapt\TestSigCapt.dproj</Transaction>
+    <Transaction>2012/08/23 12:06:46.000.643,X:\delphi\TestSigCapt\TestSigCaptForm.pas=C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/23 12:06:46.000.643,X:\delphi\TestSigCapt\TestSigCaptForm.dfm=C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/08/23 12:06:50.000.418,X:\delphi\TestSigCapt\TestSigCapt.dproj=C:\Users\jgarrido\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/27 18:30:41.000.155,=C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 18:30:50.000.442,C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Unit1.pas=C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Licence.pas</Transaction>
+    <Transaction>2022/06/27 18:33:49.000.926,C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Licence.pas=C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Device.Licence.pas</Transaction>
+    <Transaction>2022/06/27 18:33:56.000.992,=C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 18:34:09.000.049,C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Unit1.pas=C:\apps_delphi\compo\sdk-for-signature-windows\Samples\Delphi\TestSigCapt\Device.Command.pas</Transaction>
   </Transactions>
 </BorlandProject>
